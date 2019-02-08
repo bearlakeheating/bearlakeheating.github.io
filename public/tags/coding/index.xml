@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Coding on Bear Lake Heating &amp; Air</title>
+    <link>/tags/coding/</link>
+    <description>Recent content in Coding on Bear Lake Heating &amp; Air</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 17 Dec 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/coding/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>So you want to learn R</title>
+      <link>/blog/2018/12/17/want-to-learn-r/</link>
+      <pubDate>Mon, 17 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2018/12/17/want-to-learn-r/</guid>
+      <description>So you want to learn R So you want to learn R, where do you start? There are a lot of written and video tutorials and books and blogs online, but how do you navigate them? Our Ocean Health Index team put together a list of the resources we used to learn R that helped our team&amp;rsquo;s path to better science in less time. But this might still not be helpful for where you should actually start.</description>
+    </item>
+    
+    <item>
+      <title>Twitter for Community</title>
+      <link>/blogdraft/twitter-community/</link>
+      <pubDate>Tue, 09 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blogdraft/twitter-community/</guid>
+      <description>[coming soon!]</description>
+    </item>
+    
+    <item>
+      <title>.rProfile Julia Stewart Lowndes</title>
+      <link>/blog/2018/02/09/rprofile_lowndes/</link>
+      <pubDate>Fri, 09 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2018/02/09/rprofile_lowndes/</guid>
+      <description>.rProfile Julia Stewart Lowndes This interview was originally published by rOpenSci on February 9, 2018 as part of the .rprofile series.
+[This interview occurred at the 2017 rOpenSci unconference]
+
+SK: I’m Sean Kross, I’m the CTO of the Johns Hopkins Data Science Lab. Today I’m interviewing Julia Stewart Lowndes. Julia, what is your current preferred job title?
+JSL: I’m calling myself a marine data scientist - I’m the Science Program Lead for the Ocean Health Index.</description>
+    </item>
+    
+  </channel>
+</rss>

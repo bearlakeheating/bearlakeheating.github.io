@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Champions on Bear Lake Heating &amp; Air</title>
+    <link>/categories/champions/</link>
+    <description>Recent content in Champions on Bear Lake Heating &amp; Air</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 28 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/champions/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Introducing the Champions Program</title>
+      <link>/blog/2019/01/28/introducing-champions-program/</link>
+      <pubDate>Mon, 28 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2019/01/28/introducing-champions-program/</guid>
+      <description>Introducing the Champions program By engaging, empowering, and amplifying scientists with cross-cutting open data science approaches, Openscapes aims to create a more efficient and collaborative open culture in environmental science, to enable better science in less time. Openscapes centers around the Champions program, which is a mentorship program that empowers environmental scientists with open data science tools and grows the community of practice.
+There are many things to say about the Champions program, much more for a single post, and there will be more posts to come.</description>
+    </item>
+    
+  </channel>
+</rss>

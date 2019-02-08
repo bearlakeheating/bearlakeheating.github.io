@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>How To on Bear Lake Heating &amp; Air</title>
+    <link>/tags/how-to/</link>
+    <description>Recent content in How To on Bear Lake Heating &amp; Air</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 17 Dec 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/how-to/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>So you want to learn R</title>
+      <link>/blog/2018/12/17/want-to-learn-r/</link>
+      <pubDate>Mon, 17 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2018/12/17/want-to-learn-r/</guid>
+      <description>So you want to learn R So you want to learn R, where do you start? There are a lot of written and video tutorials and books and blogs online, but how do you navigate them? Our Ocean Health Index team put together a list of the resources we used to learn R that helped our team&amp;rsquo;s path to better science in less time. But this might still not be helpful for where you should actually start.</description>
+    </item>
+    
+    <item>
+      <title>Start a coding club</title>
+      <link>/blog/2018/11/16/how-to-start-a-coding-club/</link>
+      <pubDate>Fri, 16 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2018/11/16/how-to-start-a-coding-club/</guid>
+      <description>How to start a coding club Summary: start small, be hands-on, use existing tutorials, have fun.
+Here is my advice for starting a coding club.
+An example is Eco-Data-Science at UCSB. We are currently a community of &amp;gt;100 people; we meet 2x/month at the UCSB Library&amp;rsquo;s Collaboratory and skill share peer-to-peer, with all resources organized and archived on the website. But we started off small, with co-founder Jamie giving tutorials to friends one-on-one.</description>
+    </item>
+    
+    <item>
+      <title>Build communities</title>
+      <link>/blog/2018/11/06/build-communities/</link>
+      <pubDate>Tue, 06 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2018/11/06/build-communities/</guid>
+      <description>Build communities Openscapes is built with the idea that we can model the open culture we want in science. It starts with making open data science more visible and valued in our communities. So what can you do? All of the following involve seeking out opportunities to engage and learn, including others, and amplifying your efforts.
+ read publications about open data science in academia in journal clubs. Examples:  Lowndes et al.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogdrafts on Bear Lake Heating &amp; Air</title>
+    <link>/blogdraft/</link>
+    <description>Recent content in Blogdrafts on Bear Lake Heating &amp; Air</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 09 Oct 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/blogdraft/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Twitter for Community</title>
+      <link>/blogdraft/twitter-community/</link>
+      <pubDate>Tue, 09 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blogdraft/twitter-community/</guid>
+      <description>[coming soon!]</description>
+    </item>
+    
+  </channel>
+</rss>

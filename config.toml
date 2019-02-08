@@ -1,0 +1,123 @@
+baseurl = "/" 
+title = "Bear Lake Heating & Air"
+theme = "hugo-universal-theme"
+publishDir = "public"
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+languageCode = "en-us"
+# Site language. Available translations in the theme's `/i18n` directory.
+defaultContentLanguage = "en"
+# Enable comments by entering your Disqus shortname
+disqusShortname = ""
+# Enable Google Analytics by entering your tracking code
+googleAnalytics = ""
+
+# Define the number of posts per page
+paginate = 3
+
+[menu]
+
+# Main menu
+
+[[menu.main]]
+    name = "Products"
+    identifier = "products"
+    url  = "/products/"
+    weight = 1    
+
+[[menu.main]]
+    name = "Services"
+    identifier = "services"
+    url  = "/services/"
+    weight = 2  
+
+[[menu.main]]
+    name = "About"
+    url  = "/about/"
+    weight = 3
+    
+[[menu.main]]
+    name = "Contact"
+    url  = "/contact/"
+    weight = 4
+
+[params]
+    #viewMorePostLink = "/blog/"
+    #author = "Openscapes"
+    #defaultKeywords = ["openscapes", "mozilla", "nceas"]
+    #defaultDescription = "Let's do better science in less time, together."
+
+    # Google Maps API key (if not set will default to not passing a key.)
+    googleMapsApiKey = ""
+
+    #Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
+    style = "default"
+
+    # Since this template is static, the contact form uses www.formspree.io as a
+    # proxy. The form makes a POST request to their servers to send the actual
+    # email. Visitors can send up to a 1000 emails each month for free.
+    #
+    # What you need to do for the setup?
+    #
+    # - set your email address under 'email' below
+    # - upload the generated site to your server
+    # - send a dummy email yourself to confirm your account
+    # - click the confirm link in the email from www.formspree.io
+    # - you're done. Happy mailing!
+    #
+    # Enable the contact form by entering your Formspree.io email
+    # email = "your@email.com"
+
+    #about_us = "<p>Our vision is a scientific culture that is more efficient and collaborative, and can uncover environmental solutions faster. Openscapes is operated by the National Center for Ecological Analysis & Synthesis (NCEAS) and is being incubated by a Mozilla Fellowship awarded to Julia Lowndes.</p>"
+    copyright = "Copyright (c) 2018, Bear Lake Heating & Air; all rights reserved." 
+
+    # Format dates with Go's time formatting
+    date_format = "January 3, 2006"
+
+    logo = "img/BLHeatingLogo.jpg"
+    logo_small = "img/blh-logo-small.png"
+    address = """<p><strong>Bear Lake Heating & Air</strong>
+        <br>Fish Haven, Idaho
+        <br>208-945-2872
+        <br>blheating @ yahoo.com
+      </p>
+      """ 
+    latitude = ""
+    longitude = ""
+ 
+[Permalinks]
+    blog = "/blog/:year/:month/:day/:filename/"
+
+# Enable or disable top bar with social icons
+[params.topbar]
+    enable = false
+    text = ""
+
+# Enable and disable widgets for the right sidebar
+[params.widgets]
+    categories = false
+    tags = false
+    search = false
+
+[params.carousel]
+    enable = true
+    # All carousel items are defined in their own files. You can find example items
+    # at 'exampleSite/data/carousel'.
+    # For more informtion take a look at the README.
+
+[params.features]
+    enable = true
+    # All features are defined in their own files. You can find example items
+    # at 'exampleSite/data/features'.
+    # For more information take a look at the README.
+    title = "What we do"
+    subtitle = "**Bear Lake Heating & Air is a family-owned and operated business serving the greater Bear Lake area since 1997**. We provide sales, service and full system engineering to meet all your heating, air conditioning, and refrigeration needs. We proudly serve our customers in Idaho, Utah and Wyoming and are licensed, bonded and fully insured. Please call us for a free phone consultation or to schedule a site visit. We look forward to sharing our expertise to meet all your heating and air needs."
+
+[params.testimonials] 
+    enable = false  
+    # All testimonials are defined in their own files. You can find example items
+    # at 'exampleSite/data/testimonials'.
+    # For more informtion take a look at the README.
+    # title = "Champions Program"
+    # subtitle = "."
+
+ 
